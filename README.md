@@ -11,7 +11,7 @@ This script expects you to have items which will send to holder wallet.
 Copy to src folder that output json from https://github.com/MehmetAkkocan/HolderNFTRank
 
 
-holderNFTRank
+AirdropItems
 
 To determine items of holders, run the following command
 
